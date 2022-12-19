@@ -5,7 +5,7 @@ h1{
 P{
     color: rgb(160, 119, 206);
     font-size: 20px;
-    text-align: center;
+    text-align: left;
 }
 h2{
     color: rgb(67, 5, 182);
@@ -16,4 +16,10 @@ h3{
 h4{
     color: rgb(67, 5, 182);
 }
+li{
+    color: rgb(160, 119, 206);
+}
 
+body {
+    background-color: rgb(221, 219, 220);
+  }
